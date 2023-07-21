@@ -1,0 +1,6 @@
+train: C:\Users\eshan\PycharmProjects\Python_oop_1\Yolov7\yolov7-GGi\Images\train_yolov8_small
+val: C:\Users\eshan\PycharmProjects\Python_oop_1\Yolov7\yolov7-GGi\Images\val_yolov8_small
+
+nc: 7
+
+names: ["Fire", "Smoke", "Vegetation", "Human", "Background", "Sparks", "Arc"]
