@@ -1,1 +1,2 @@
 Here is the Yolov7 for using it on UVM and AM
+Use 'usage_yolov7_imgs.py' to run on images and 'usage_yolov7_vids.py' to run on videos and live streams
