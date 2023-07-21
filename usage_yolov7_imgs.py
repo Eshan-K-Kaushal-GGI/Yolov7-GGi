@@ -1,3 +1,7 @@
+''' Author - Eshan K Kaushal '''
+# ONLY for IN-HOUSE GGi usage
+# Dated - 20_07_2023 (dd_mmm_yyyy)
+
 import time
 from pathlib import Path
 
